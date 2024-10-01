@@ -43,7 +43,7 @@ export default function EventListItem({ event }) {
             15 going
           </Text>
           <Entypo name="share-alternative" size={20} color="gray" />
-          <FontAwesome name="bookmark-o" size={24} color="gray" />
+          <FontAwesome name="bookmark-o" size={20} color="gray" />
         </View>
       </View>
     )
